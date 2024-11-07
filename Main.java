@@ -4,6 +4,9 @@ public class Main
 {
   public static void main(String[] args)
   {
-    // write solutions to problems here
+    for (i=1; 1 =< 25; 1 += 2)
+    {
+      System.out.println(i);
+    }
   }
 }
